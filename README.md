@@ -1,3 +1,3 @@
 # ROBOISM_Utsav
 
-roboism_Utsav.zip file contains Images and all the Codes.
+roboism_Utsav.zip file contains code and it's Output Images.
